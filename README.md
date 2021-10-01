@@ -1,0 +1,2 @@
+# MazeCollector
+Simple maze game 
